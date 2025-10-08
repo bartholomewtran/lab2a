@@ -13,6 +13,7 @@ public class Driver {
     public static void main(String [] args)
     {
         Driver d1 = new Driver();
+        // test cmd
         Person Stacey = d1.readValue();
         Stacey.print();
         Person Ross = d1.readValue();
