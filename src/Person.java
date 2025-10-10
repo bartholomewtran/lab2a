@@ -72,7 +72,8 @@ will be cached. After reassigning, the method will be called again in Driver cla
 
 5. PRINT
 
-The data is printed in this method. This method is called in the Driver class.
+The data is printed in this method. This method is called in the Driver class. For each person,
+the printer will print the name, address, age, and phone number that has been inputted.
 
  */
     public void print() {
