@@ -1,3 +1,10 @@
+/*
+Bartholomew Tran
+F25 CIS D035A 11Y, 62Z Java Programming
+Assignment 2A
+Due Date: October 19, 2025
+Date Submitted: October 19, 2025
+*/
 
 /*
 
@@ -42,30 +49,37 @@ will be cached. After reassigning, the method will be called again in Driver cla
     }
 
     public void setName(String name) {
+
         this.name = name;
     }
 
     public String getAddress() {
+
         return address;
     }
 
     public void setAddress(String address) {
+
         this.address = address;
     }
 
     public int getAge() {
+
         return age;
     }
 
     public void setAge(int age) {
+
         this.age = age;
     }
 
     public String getPhone_number() {
+
         return phone_number;
     }
 
     public void setPhone_number(String phone_number) {
+
         this.phone_number = phone_number;
     }
 /*

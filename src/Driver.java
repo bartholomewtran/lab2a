@@ -1,3 +1,11 @@
+/*
+Bartholomew Tran
+F25 CIS D035A 11Y, 62Z Java Programming
+Assignment 2A
+Due Date: October 19, 2025
+Date Submitted: October 19, 2025
+*/
+
 import java.util.Scanner;
 
 
@@ -92,3 +100,58 @@ will be the name, address, age, and phone number data.
 
  */
 
+/*
+OUTPUT
+
+Write a name:
+alfa
+Write an address:
+alpha point - 12
+Write an age:
+3
+Write a phone number:
+344344344344
+---------------------------------------------
+This is the data of the person you entered:
+
+Name: alfa
+Address: alpha point - 12
+Age: 3
+Phone: 344344344344
+----------------------------------------------
+
+Write a name:
+bravo
+Write an address:
+bravo point 24
+Write an age:
+4
+Write a phone number:
+488488488488488
+---------------------------------------------
+This is the data of the person you entered:
+
+Name: bravo
+Address: bravo point 24
+Age: 4
+Phone: 488488488488488
+----------------------------------------------
+
+Write a name:
+charlie
+Write an address:
+charlie point - 36
+Write an age:
+5
+Write a phone number:
+122122122122122
+---------------------------------------------
+This is the data of the person you entered:
+
+Name: charlie
+Address: charlie point - 36
+Age: 5
+Phone: 122122122122122
+----------------------------------------------
+
+ */
